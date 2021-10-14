@@ -2,6 +2,8 @@
 
 This React Native project is setup using [Expo](https://expo.dev/) and is using [Yarn](https://yarnpkg.com/) as the chosen package manager.
 
+Simply download the ZIP of this repository to get started with your new project!
+
 ## Folder Structure
 
 The folder structure for the project is shown below.
